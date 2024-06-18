@@ -1,3 +1,3 @@
 # random-gifs
 
-live-link : https://sidecoder13.github.io/first/
+live-link : https://sidecoder13.github.io/gifGenerator/
